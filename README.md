@@ -13,7 +13,7 @@
 
 **Сборка Android:** `flutter build apk --release`  
 **Готовый файл:** `build/app/outputs/flutter-apk/app-release.apk`  
-**APK:** [Скачать app-release.apk (GitHub Release)](https://github.com/krekerfit1/Flutter_Lab10/releases/download/v1.0.0/app-release.apk)
+**APK:** [Скачать app-release.apk (GitHub Release)](https://github.com/krekerfit1/lab_10_Final/releases/download/v1.0.0/app-release.apk)
 
 **Проверенные Flutter/Dart:** Flutter 3.47.7 (channel stable), Dart 3.13.5
 
